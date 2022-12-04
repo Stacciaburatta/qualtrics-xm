@@ -1,0 +1,114 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Qualtrics XM\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-02 15:28+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.3; wp-6.1.1\n"
+"X-Domain: qualtrics_xm"
+
+#: admin/settings-register.php:93 admin/settings-register.php:97
+msgid "Activate Website Feedback"
+msgstr ""
+
+#: admin/settings-register.php:79
+msgid "Activate/Deactivate Website Feedback"
+msgstr ""
+
+#. Description of the plugin
+msgid "Beta plugin for Qualtrics Integration."
+msgstr ""
+
+#: admin/settings-callbacks.php:112
+msgid "Blue"
+msgstr ""
+
+#: admin/settings-register.php:84
+msgid "Code Snippet"
+msgstr ""
+
+#: admin/settings-callbacks.php:113
+msgid "Coffee"
+msgstr ""
+
+#: admin/settings-register.php:66
+msgid "Custom URL"
+msgstr ""
+
+#: admin/settings-register.php:70
+msgid "Custom URL for Website Feedback"
+msgstr ""
+
+#: admin/settings-callbacks.php:110
+msgid "Default"
+msgstr ""
+
+#: admin/settings-register.php:46
+msgid "Deploy intercept on the site pages"
+msgstr ""
+
+#: admin/settings-callbacks.php:40
+msgid "Disable custom URL"
+msgstr ""
+
+#: admin/settings-callbacks.php:114
+msgid "Ectoplasm"
+msgstr ""
+
+#: admin/settings-callbacks.php:39
+msgid "Enable custom URL"
+msgstr ""
+
+#. Author of the plugin
+msgid "Gioni Gennai"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://gioni.it"
+msgstr ""
+
+#: admin/settings-callbacks.php:111
+msgid "Light"
+msgstr ""
+
+#: admin/settings-callbacks.php:115
+msgid "Midnight"
+msgstr ""
+
+#: admin/settings-callbacks.php:116
+msgid "Ocean"
+msgstr ""
+
+#: qualtrics-xm.php:50
+msgid "Past your Code Snippet here"
+msgstr ""
+
+#. Name of the plugin
+#: admin/admin-menu.php:33
+msgid "Qualtrics XM"
+msgstr ""
+
+#: admin/admin-menu.php:32
+msgid "Qualtrics XM Settings"
+msgstr ""
+
+#: admin/settings-callbacks.php:117
+msgid "Sunrise"
+msgstr ""
+
+#: admin/settings-callbacks.php:15
+msgid "These settings enable you to customize the Intercept deployment."
+msgstr ""
+
+#: admin/settings-register.php:88
+msgid "Website Feedback code snippet"
+msgstr ""
